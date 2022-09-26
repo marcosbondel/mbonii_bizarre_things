@@ -3,7 +3,7 @@
 </h1>
 
 <h6 align="center"> 
-    Welcome to my pretty yet unuseful calculator that contains the four basics math operations: add, subtract, multiply and divide
+    Welcome to my pretty yet unuseful calculator that contains the four basics math operations: add, subtract, multiply and divide :octocat:
 </h6>
 
 # Table of contents
@@ -46,7 +46,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/mbonii
 
 ---------
 <p align="center">
-Built with :blue-heart: by 
+Built with :blue_heart: by 
 <strong>Marcos Bonifasi</strong>
 at his home :)
 </p>
