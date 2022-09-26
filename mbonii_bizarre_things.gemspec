@@ -12,9 +12,9 @@ Gem::Specification.new do |spec|
   spec.description = "Homework :("
   spec.homepage = "https://github.com/mbonii"
   spec.required_ruby_version = ">= 2.6.0"
+  spec.license = "MIT"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/mbonii/mbonii_bizarre_things"
   spec.metadata["changelog_uri"] = "https://github.com/mbonii/mbonii_bizarre_things"
 
   # Specify which files should be added to the gem when it is released.
