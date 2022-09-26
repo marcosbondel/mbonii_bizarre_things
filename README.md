@@ -1,8 +1,16 @@
-# MboniiBizarreThings
+<h1 align="center">
+    MboniiBizarreThings
+</h1>
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/mbonii_bizarre_things`. To experiment with that code, run `bin/console` for an interactive prompt.
+<h6 align="center"> 
+    Welcome to my pretty yet unuseful calculator that contains the four basics math operations: add, subtract, multiply and divide
+</h6>
 
-TODO: Delete this and the text above, and describe your gem
+# Table of contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
 
 ## Installation
 
@@ -16,14 +24,29 @@ If bundler is not being used to manage dependencies, install the gem by executin
 
 ## Usage
 
-TODO: Write usage instructions here
+First of all require the gem
 
-## Development
+```ruby
+    require "mbonii_bizarre_things"
+```
 
-After checking out the repo, run `bin/setup` to install dependencies. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
+And that's it, start using it like the following
 
-To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and the created tag, and push the `.gem` file to [rubygems.org](https://rubygems.org).
+```ruby
+    MboniiBizarreThings::Calculator.add 1,2,3,4
+    MboniiBizarreThings::Calculator.substract 1,2,3,4
+    MboniiBizarreThings::Calculator.multiply 1,2,3,4
+    MboniiBizarreThings::Calculator.divide 1,2,3,4
+```
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/mbonii_bizarre_things.
+Bug reports and pull requests are welcome on GitHub at https://github.com/mbonii/mbonii_bizarre_things.
+
+
+---------
+<p align="center">
+Built with :blue-heart: by 
+<strong>Marcos Bonifasi</strong>
+at his home :)
+</p>
